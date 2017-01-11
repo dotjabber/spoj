@@ -1,4 +1,4 @@
-package priv.dotjabber.easy;
+package com.spojpl.easy;
 
 import java.util.Arrays;
 import java.util.Scanner;

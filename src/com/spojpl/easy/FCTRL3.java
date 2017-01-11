@@ -1,4 +1,4 @@
-package priv.dotjabber.easy;
+package com.spojpl.easy;
 
 import java.util.Scanner;
 import java.util.stream.LongStream;
