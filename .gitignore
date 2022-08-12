@@ -1,1 +1,7 @@
-/bin/
+*.iml
+*/target/*
+target/
+.idea/
+*.class
+*.jar
+MANIFEST.MF
